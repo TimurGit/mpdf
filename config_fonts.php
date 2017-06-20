@@ -274,6 +274,11 @@ $this->fontdata = array(
 	"unbatang" => array(/* Korean */
 		'R' => "UnBatang_0613.ttf",
 	),
+	"opensans_cond"=>[
+		'R' => "OpenSans-CondLight.ttf",
+		'I' => "OpenSans-CondLightItalic.ttf",
+		'B' => "OpenSans-CondBold.ttf",
+	]
 );
 
 
